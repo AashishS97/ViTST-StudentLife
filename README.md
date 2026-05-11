@@ -1,6 +1,6 @@
 # Vision Transformers for Irregular Time Series: Depression Prediction with StudentLife Data
 
-Master's thesis project — Vrije Universiteit Amsterdam (2025)
+Master's thesis project
 
 This repository contains the code for a feasibility study on predicting depressive symptom trajectories from multimodal smartphone sensing data, using the **Vision Transformer for Irregularly Sampled Time Series (ViTST)** architecture applied to the [StudentLife dataset](https://studentlife.cs.dartmouth.edu/).
 
